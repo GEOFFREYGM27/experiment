@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da98870a.chunk.css",
+    "main.js": "/static/js/main.f65b49a1.chunk.js",
+    "main.js.map": "/static/js/main.f65b49a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da7932a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da7932a8.js.map",
+    "static/js/2.e07fea5e.chunk.js": "/static/js/2.e07fea5e.chunk.js",
+    "static/js/2.e07fea5e.chunk.js.map": "/static/js/2.e07fea5e.chunk.js.map",
+    "static/js/3.fcd80676.chunk.js": "/static/js/3.fcd80676.chunk.js",
+    "static/js/3.fcd80676.chunk.js.map": "/static/js/3.fcd80676.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.da98870a.chunk.css.map": "/static/css/main.da98870a.chunk.css.map",
+    "static/js/2.e07fea5e.chunk.js.LICENSE.txt": "/static/js/2.e07fea5e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Therapy final.c3ff1fd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da7932a8.js",
+    "static/js/2.e07fea5e.chunk.js",
+    "static/css/main.da98870a.chunk.css",
+    "static/js/main.f65b49a1.chunk.js"
+  ]
+}
